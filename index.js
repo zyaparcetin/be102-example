@@ -8,9 +8,6 @@ const armagan = new Person('armagan', 36)
 const berlinPhoto = new Photo('berlin.jpg')
 const munichPhoto = new Photo('munich.jpg')
 
-function foo() {
-  return 3 ? 6 : 8 ? 6 : 1
-}
 steve.addPhoto(berlinPhoto)
 steve.addPhoto(munichPhoto)
 
