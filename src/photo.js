@@ -5,4 +5,4 @@ class Photo {
   }
 }
 
-module.exports = Photo; 
+module.exports = Photo
