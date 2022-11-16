@@ -13,6 +13,10 @@ steve.addPhoto(munichPhoto)
 
 steve.bio = 'An awesome hacker who has seen it all, now sharing them all with you.'
 
+function foo() {
+  return 5
+}
+
 armagan.likePhoto(berlinPhoto)
 mihri.likePhoto(berlinPhoto)
 
